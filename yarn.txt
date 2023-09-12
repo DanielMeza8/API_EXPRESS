@@ -1,0 +1,12 @@
+para poder ocupar Yarn
+utilizamos la consola de comandos CMD
+con yarn creamos nuestro backend de nuestra aplicacion
+yarn init
+
+yarn add dotenv mongose express-validator jsonwebtoken cors
+
+
+instalar nodemon para que el servidor se actualize cada vezque halla un cambio
+
+iniciar el programa con yarn
+--------------> yarn start <-----------------
